@@ -1,18 +1,18 @@
 [
     {
-        "source": "Files/External/sampledata/Sales/Customers/Customers.csv",
+        "source": "Files/Sales/Customers/Customers.csv",
         "format": "csv",
         "destination": "sales_Customers",
         "projected_columns": ["CustomerID", "FirstName", "LastName"]
     },
     {
-        "source": "Files/External/sampledata/Sales/Products/Products.parquet",
+        "source": "Files/Sales/Products/Products.parquet",
         "format": "parquet",
         "destination": "sales_Products",
         "projected_columns": []
     },
     {
-        "source": "Files/External/sampledata/Sales/Transactions/Transactions.csv",
+        "source": "Files/Sales/Transactions/Transactions.csv",
         "format": "csv",
         "destination": "sales_Transactions",
         "projected_columns": []
