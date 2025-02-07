@@ -5,6 +5,9 @@ This is a pico-example of a meta-data driven lakehouse for Microsoft Fabric.
 
 /Setup.ipynb holds all to get started. It is one script, to setup the full example.
 
+NB! 2025-02-07: There has been fixed a concurrency issue, where transformations could leak data to other transformations. 
+                There is tiny minor risc of experince this. Re-running the /Setup.ipynb notebook fixes this. 
+
 ## Documentation
 
 AquaShack is traditionel medallion architecture, due to history the Bronze, Silver and Gold layers are named Landing, Base and Curated.
