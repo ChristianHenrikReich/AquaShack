@@ -26,3 +26,5 @@ The notebook 2_AquaShack_Base_To_Curated will move data from Base to Curated.
 [Data Architecture: Data capture time and event time in medallion architecture](https://medium.com/@christianhenrikreich/data-architecture-data-capture-time-and-event-time-in-medallion-architecture-dceb93980e0a)
 
 [Microsoft Fabric: Building Pseudo Identity Columns Without monotonically_increasing_id() in Spark](https://medium.com/@christianhenrikreich/microsoft-fabric-building-pseudo-identity-columns-without-monotonically-increasing-id-in-spark-09b1efb577d1)
+
+[Lakehousing: Removing one of the biggest performance killers in Silver-to-Gold processing](https://medium.com/@christianhenrikreich/lakehousing-removing-one-of-the-biggest-performance-killers-in-bronze-to-silver-processing-8ed4ce372de6)
