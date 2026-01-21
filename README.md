@@ -1,5 +1,5 @@
 # AquaShack
-This is a pico-example of a meta-data driven lakehouse for Microsoft Fabric. For a full scale solution, I recommend twoday's AquaVilla best practices.
+This is a pico-example of a meta-data driven lakehouse for Microsoft Fabric.
 
 ## Installation 
 
